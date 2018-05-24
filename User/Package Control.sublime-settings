@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"phpfmt",
+		"PlainTasks",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal",
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"WordCount"
+	]
+}

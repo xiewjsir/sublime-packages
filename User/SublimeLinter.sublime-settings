@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+	"paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["D:\\Program Files\\phpdev\\php-7.2.5\\php.exe"]
+    }
+}

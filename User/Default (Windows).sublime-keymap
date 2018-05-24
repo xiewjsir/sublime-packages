@@ -1,0 +1,13 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    //chrome
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                "extensions":".*"
+            }
+     },
+     { "keys": ["Command+\\"], "command": "toggle_side_bar" },
+     { "keys": ["ctrl+alt+f"], "command": "fmt_now"},
+]
